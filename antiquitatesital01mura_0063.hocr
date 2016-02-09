@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatesital01mura_0063.png"; bbox 0 0 2195 3032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 157 951 1754 1296">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 157 951 1754 1296">
+     <span class='ocr_line' id='line_1_1' title="bbox 157 951 1754 1084; baseline 0.002 -5"><span class='ocrx_word' id='word_1_1' title='bbox 157 951 503 1082; x_wconf 84' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 675 952 1754 1084; x_wconf 87' lang='lat' dir='ltr'>REGNO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 448 1201 1457 1296; baseline 0.003 -4"><span class='ocrx_word' id='word_1_3' title='bbox 448 1201 1457 1296; x_wconf 83' lang='lat' dir='ltr'><strong>ITALIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 308 1413 1603 1482">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 308 1413 1603 1482">
+     <span class='ocr_line' id='line_1_3' title="bbox 308 1413 1603 1482; baseline -0.002 -14"><span class='ocrx_word' id='word_1_4' title='bbox 308 1415 913 1482; x_wconf 75' lang='lat' dir='ltr'>EJUSQUE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1018 1413 1603 1468; x_wconf 80' lang='lat' dir='ltr'>F1N1ssUs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 173 1573 1734 1666">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 173 1573 1734 1666">
+     <span class='ocr_line' id='line_1_4' title="bbox 173 1573 1734 1666; baseline 0.006 -10"><span class='ocrx_word' id='word_1_6' title='bbox 173 1574 981 1657; x_wconf 70' lang='lat' dir='ltr'>DISSERTATIO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1078 1573 1673 1660; x_wconf 83' lang='lat' dir='ltr'><strong>SECUNDA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1698 1632 1734 1666; x_wconf 65' lang='lat' dir='ltr'>A</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
